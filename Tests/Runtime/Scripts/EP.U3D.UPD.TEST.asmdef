@@ -1,0 +1,19 @@
+{
+    "name": "EP.U3D.UPD.TEST",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "EP.U3D.UTIL",
+        "ET.U3D.UTIL",
+        "EP.U3D.UPD"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
